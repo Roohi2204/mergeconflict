@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is created in remote directory
+=======
+This is second file in mergeconflict
+>>>>>>> f-b
